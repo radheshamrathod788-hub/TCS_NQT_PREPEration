@@ -1,0 +1,2 @@
+name="rade"
+print(name)
