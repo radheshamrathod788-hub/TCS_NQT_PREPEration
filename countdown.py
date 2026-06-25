@@ -1,0 +1,8 @@
+#countdown using while loop
+#syntax of while loop
+    #code
+
+starting_countdown=10
+while starting_countdown>=1:
+    print(starting_countdown)
+    starting_countdown-=1
